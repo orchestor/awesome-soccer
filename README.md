@@ -3,8 +3,7 @@
 Curated list of awesome lists, traing like a Pro's
 
 ## Weekly Training Schedule
-1. [Training Camp: Fremont High School](https://www.google.com/maps/place/Fremont+High+School/@37.3533182,-122.0382673,17z/data=!4m8!1m2!2m1!1sfremont+high+school!3m4!1s0x808fb67f653a3697:0xd9c9e57933775863!8m2!3d37.353891!4d-122.0346795)
-- Every Wensday 7:00PM - 8:30PM
+1. [Training Camp: Fremont High School](https://www.google.com/maps/place/Fremont+High+School/@37.3533182,-122.0382673,17z/data=!4m8!1m2!2m1!1sfremont+high+school!3m4!1s0x808fb67f653a3697:0xd9c9e57933775863!8m2!3d37.353891!4d-122.0346795) - Every Wensday 7:00PM - 8:30PM
 
 ## Soccer Fundamentals
 
