@@ -1,6 +1,6 @@
 # awesome-soccer
 
-Curated list of awesome lists 
+Curated list of awesome lists, traing like a Pro's
 
 ## Soccer Fundamentals
 ## Soccer Fitness
