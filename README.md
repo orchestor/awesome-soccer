@@ -7,7 +7,7 @@ Curated list of awesome lists, traing like a Pro's
 
 ## Soccer Fundamentals
 
-(https://www.youtube.com/watch?v=bzjVnj8Gms4)
+- 【Technical training for football players - Learn the Brazilian Way](https://www.youtube.com/watch?v=bzjVnj8Gms4)
 ## Soccer Fitness
 - [Stanford Soccer Strength and Conditioning Program](http://froeberg.com/soccerunited/stanfordfitness.pdf) - a full program to help you plan your week training.
 ## 硅谷野球指南
