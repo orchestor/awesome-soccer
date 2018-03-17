@@ -10,6 +10,9 @@ Curated list of awesome lists, traing like a Pro's
 - [Learn the Brazilian Way](https://www.youtube.com/watch?v=bzjVnj8Gms4) - Brazilian Style: Technical training for soccer players
 - [Learn to Play Soccer](https://www.youtube.com/watch?v=uNOpSPkNWUM) - European Style by Hubert Vogelsinger
 
+- [球商分解](https://vimeo.com/209025500) - Soccer Attacking Basics 
+
+
 ## Soccer Fitness
 - [Stanford Soccer Strength and Conditioning Program](http://froeberg.com/soccerunited/stanfordfitness.pdf) - a full program to help you plan your week training.
 
